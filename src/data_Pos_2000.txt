@@ -1,0 +1,7 @@
+D:\Golang_Project\src\SDKTest-identical\data\3_YLSH\30000001.jpg
+D:\Golang_Project\src\SDKTest-identical\data\3_YLSH\30000002.jpg
+D:\Golang_Project\src\SDKTest-identical\data\3_YLSH\30000003.jpg
+D:\Golang_Project\src\SDKTest-identical\data\3_YLSH\30000004.jpg
+D:\Golang_Project\src\SDKTest-identical\data\3_YLSH\30000005.jpg
+D:\Golang_Project\src\SDKTest-identical\data\3_YLSH\30000006.jpg
+D:\Golang_Project\src\SDKTest-identical\data\3_YLSH\30000007.jpg
