@@ -1,4 +1,4 @@
-# HttpInterfacePerformance
+# HttpInterfacePerformance（具体使用说明见Readme.txt）
 测工具是postman简化版与jmeter tps功能的结合，欢迎吐槽，欢迎交流
 
 ================================================
